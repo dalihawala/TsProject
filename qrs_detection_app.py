@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy import signal
 
-
+#Git Connexion established
 # Fonction pour générer un signal ECG simulé
 def generate_ecg_signal():
     fs = 1000  # Fréquence d'échantillonnage en Hz
